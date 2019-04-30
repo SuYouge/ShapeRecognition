@@ -1,11 +1,11 @@
-import  model
-import  tensorflow as tf
+import model
+import tensorflow as tf
 import numpy as np
 from PIL import Image
 import  matplotlib.pyplot as plt
 import  os
 import input
-
+# tensorboard --logdir=C:\Users\YogurtSuee\PycharmProjects\shape_recognition\board
 IMAGE_SIZE = input.IMAGE_SIZE
 result = 'result'
 
@@ -128,10 +128,10 @@ if __name__ == '__main__':
     #img = Image.open('C:\\Users\YogurtSuee\PycharmProjects\shape_recognition\data\origin\\test\\rec\\val_132.jpg')
     #img = Image.open('C:\\Users\YogurtSuee\PycharmProjects\shape_recognition\data\origin\\test\\rec\\val_182.jpg')
     #img = Image.open('C:\\Users\YogurtSuee\PycharmProjects\shape_recognition\data\origin\\test\\rec\\val_196.jpg')
-    img = Image.open('C:\\Users\YogurtSuee\PycharmProjects\shape_recognition\data\origin\\test\\rec\\val_93.jpg')
-    plt.imshow(img)
-    plt.show()
-    imag = img.resize([30, 30])
-    image = np.array(imag)
-    evaluate_one_image(image)
-    # test_all()
+    # img = Image.open('C:\\Users\YogurtSuee\PycharmProjects\shape_recognition\data\origin\\test\\rec\\val_93.jpg')
+    # plt.imshow(img)
+    # plt.show()
+    # imag = img.resize([30, 30])
+    # image = np.array(imag)
+    # evaluate_one_image(image)
+    test_all()
