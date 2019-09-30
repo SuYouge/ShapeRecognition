@@ -3,7 +3,7 @@
 训练集的大小为1856  
 测试集的大小为200  
 
-Shape recognition based on TensorFlow
-Dataset includes circles, tetragonums and triangles
-Training set size is 1856
-Test set size is 200
+Shape recognition based on TensorFlow  
+Dataset includes circles, tetragonums and triangles  
+Training set size is 1856  
+Test set size is 200  
