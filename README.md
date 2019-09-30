@@ -1,5 +1,9 @@
-»ùÓÚTensorFlowµÄĞÎ×´Ê¶±ğ
+åŸºäºTensorFlowçš„å½¢çŠ¶è¯†åˆ«  
+Shape recognition based on TensorFlow
 
-°üº¬Ô²ĞÎ¡¢ËÄ±ßĞÎ¡¢Èı½ÇĞÎÈıÖÖĞÎ×´
-ÑµÁ·¼¯µÄ´óĞ¡Îª1856
-²âÊÔ¼¯µÄ´óĞ¡Îª200
+åŒ…å«åœ†å½¢ã€å››è¾¹å½¢ã€ä¸‰è§’å½¢ä¸‰ç§å½¢çŠ¶  
+Dataset includes circles, tetragonums and triangles
+è®­ç»ƒé›†çš„å¤§å°ä¸º1856  
+Training set is 1856
+æµ‹è¯•é›†çš„å¤§å°ä¸º200  
+Test set is 200
